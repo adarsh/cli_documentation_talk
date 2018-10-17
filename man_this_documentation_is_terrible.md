@@ -11,26 +11,23 @@
 
 ---
 
-*Rejected Titles*
-
-* "`man`splaining CLI documentation"
-* "It's a `man`, man!"
-
----
-
 # History of UNIX
 
-- In the first two years of the history of Unix, no documentation existedr
-- The first actual man pages were written by Dennis Ritchie and Ken Thompson at the insistence of their manager Doug McIlroy in 1971. ON PAPER.
-- This came out as the "Unix Programmer’s Manual", which consisted of (physical!) pages collected together in a single binder.
+* In the first two years of the history of Unix, no documentation existed.
+
+* The first actual man pages were written by Dennis Ritchie and Ken Thompson at the insistence of their manager Doug McIlroy in 1971. ON PAPER.
+
+* The documentation was released as "The Unix Programmer's Manual", which consisted of pages collected together in a single three-hole binder.
 
 
 ---
 # The First Man
 
-- The manual documented only 61 different commands, along with a couple dozen system calls and a few library routines.
-- Though the man command itself was not to come until later, the first edition of the Unix Programmer’s Manual established many of the conventions that man pages adhere to today, even in the absence of an official specification.
-- The documentation for each command included the well-known NAME, SYNOPSIS, DESCRIPTION, and SEE ALSO headings.
+* The manual documented only 61 different commands, along with a couple dozen system calls and a few library routines.
+
+* Though the man command itself was not to come until later, the first edition of the Unix Programmer’s Manual established many of the conventions that man pages adhere to today, even in the absence of an official specification.
+
+* The documentation for each command included the well-known NAME, SYNOPSIS, DESCRIPTION, and SEE ALSO headings.
 
 
 ---
